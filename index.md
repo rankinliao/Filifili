@@ -1,5 +1,31 @@
 ## Welcome to GitHub Pages
 
+[Register](Register.html)
+
+[Login](Login.html)
+
+[Logout](Logout.html)
+
+[Open a membership](Open-a-membership.html)
+
+[Determine whether is a registered user](Determine-whether-is-a-registered-user.html)
+
+[Verify Membership](Verify-Membership.html)
+
+[Watch video](Watch-video.html)
+
+[Upload video](Upload-video.html)
+
+[Follow other users](Follow-other-users.html)
+
+[Post pictures or text updates](Post-pictures-or-text-updates.html)
+
+[Refresh the home page and following page](Refresh-the-home-page-and-following-page.html)
+
+[Upload and change their profile picture](Upload-and-change-their-profile-picture.html)
+
+[Play some small games](Play-some-small-games.html)
+
 You can use the [editor on GitHub](https://github.com/rankinliao/Filifili/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
