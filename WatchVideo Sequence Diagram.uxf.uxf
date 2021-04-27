@@ -1,0 +1,21 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><element><id>Relation</id><coordinates><x>40</x><y>200</y><w>30</w><h>460</h></coordinates><panel_attributes>lt=.</panel_attributes><additional_attributes>10;10;10;440</additional_attributes></element><element><id>Relation</id><coordinates><x>40</x><y>220</y><w>390</w><h>60</h></coordinates><panel_attributes>lt=&lt;-
+WatchVideo(Video Criteria)
+
+</panel_attributes><additional_attributes>370;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>40</x><y>600</y><w>390</w><h>50</h></coordinates><panel_attributes>lt=&lt;-
+displayPage(ResultPage)
+</panel_attributes><additional_attributes>10;20;370;20</additional_attributes></element><element><id>Relation</id><coordinates><x>400</x><y>200</y><w>30</w><h>460</h></coordinates><panel_attributes>lt=.</panel_attributes><additional_attributes>10;10;10;440</additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>760</x><y>180</y><w>100</w><h>30</h></coordinates><panel_attributes>_Database_</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>800</x><y>200</y><w>30</w><h>460</h></coordinates><panel_attributes>lt=.</panel_attributes><additional_attributes>10;10;10;440</additional_attributes></element><element><id>Relation</id><coordinates><x>400</x><y>320</y><w>430</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
+runQuery(SQLSelect)</panel_attributes><additional_attributes>410;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>400</x><y>360</y><w>430</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
+Record</panel_attributes><additional_attributes>10;20;410;20</additional_attributes></element><element><id>Relation</id><coordinates><x>400</x><y>250</y><w>310</w><h>80</h></coordinates><panel_attributes>lt=&lt;-
+SQLSelect=
+formatSQLSelect(Video Criteria)
+
+</panel_attributes><additional_attributes>10;60;110;60;110;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>610</x><y>200</y><w>30</w><h>460</h></coordinates><panel_attributes>lt=.</panel_attributes><additional_attributes>10;10;10;440</additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>570</x><y>180</y><w>100</w><h>30</h></coordinates><panel_attributes>_Global_</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>360</x><y>180</y><w>100</w><h>30</h></coordinates><panel_attributes>_Script_</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>399</x><y>410</y><w>280</w><h>80</h></coordinates><panel_attributes>lt=&lt;-
+ResultPage=
+formatVideoPage(Records)
+
+</panel_attributes><additional_attributes>10;60;110;60;110;10;10;10</additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>0</x><y>180</y><w>100</w><h>30</h></coordinates><panel_attributes>_User Interface_</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>400</x><y>500</y><w>430</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
+Recommended</panel_attributes><additional_attributes>10;20;410;20</additional_attributes></element><element><id>Relation</id><coordinates><x>399</x><y>540</y><w>400</w><h>80</h></coordinates><panel_attributes>lt=&lt;-
+ResultPage=
+formatVideoPage(Recommended by Database)
+
+</panel_attributes><additional_attributes>10;60;110;60;110;10;10;10</additional_attributes></element></diagram>
